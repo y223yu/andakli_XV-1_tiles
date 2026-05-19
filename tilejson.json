@@ -1,0 +1,14 @@
+{
+  "tilejson": "2.2.0",
+  "name": "Andakli XV-1 Structure Map March 2025",
+  "description": "Andakli XV-1 horizon structure contour map, March 2025. EPSG:4326 bounds.",
+  "version": "1.0.0",
+  "scheme": "xyz",
+  "tiles": [
+    "http://localhost/{z}/{x}/{y}.png"
+  ],
+  "minzoom": 12,
+  "maxzoom": 15,
+  "bounds": [62.962598, 39.915413, 63.096322, 39.985948],
+  "center": [63.029460, 39.950681, 14]
+}
